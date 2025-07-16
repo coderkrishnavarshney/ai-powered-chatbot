@@ -36,8 +36,16 @@ An intelligent chatbot combining web technologies with AI/ML capabilities, desig
 1. Clone the repository:
    ```bash
        git clone https://github.com/yourusername/ai-chatbot.git
-         cd ai-chatbot
+       cd ai-chatbot
 
 2. Start services:
     ```bash
     docker-compose up -d
+
+3. Access the application:
+
+Frontend: http://localhost:3000
+
+Backend API: http://localhost:8000
+
+API Docs: http://localhost:8000/docs
