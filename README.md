@@ -53,9 +53,9 @@ API Docs: http://localhost:8000/docs
 
    ### Deployment
 
-   For production deployment:
-    ```bash
-   kubectl apply -f k8s/
+       For production deployment:
+       ```bash
+       kubectl apply -f k8s/
 
 ### Testing
 Run unit tests:
