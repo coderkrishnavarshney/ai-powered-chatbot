@@ -34,9 +34,9 @@ An intelligent chatbot combining web technologies with AI/ML capabilities, desig
 ### Installation
 
 1. Clone the repository:
+
+2. 
 ```bash
 git clone https://github.com/yourusername/ai-chatbot.git
 cd ai-chatbot
-/end
-2. Start Services:
  
