@@ -1,4 +1,4 @@
-# AI-Powered Chatbot for FAANG
+# AI-Powered Chatbot
 
 ![Project Logo](https://via.placeholder.com/150)
 
@@ -38,5 +38,5 @@ An intelligent chatbot combining web technologies with AI/ML capabilities, desig
 git clone https://github.com/yourusername/ai-chatbot.git
 cd ai-chatbot
 
-2. 
+2. Start Services:
  
